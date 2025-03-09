@@ -26,8 +26,6 @@
     - 모든 회원 정보 출력
 
 ```
-bash
-복사편집
 javac -d bin src/member/**/*.java
 java -cp bin member.controller.MemberController
 
@@ -36,8 +34,6 @@ java -cp bin member.controller.MemberController
 ## 데이터베이스 테이블 (예제)
 
 ```sql
-sql
-복사편집
 CREATE TABLE MYMEMBER (
     MEM_ID VARCHAR2(50) PRIMARY KEY,
     MEM_PASS VARCHAR2(100) NOT NULL,
