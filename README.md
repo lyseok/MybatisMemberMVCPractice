@@ -1,4 +1,4 @@
-# MyBatis MVC Practice
+# MyBatis Member MVC Practice
 
 ## 프로젝트 개요
 
